@@ -4,6 +4,5 @@
 A small team project for practising Git and GitHub collaboration.
 
 ## Team Tasks
-- Project overview
-- Features
-- Usage instructions 
+## Project overview
+This project demonstrates shared work using Git branches and commits.
